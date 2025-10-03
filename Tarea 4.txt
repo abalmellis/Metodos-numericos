@@ -1,0 +1,1 @@
+El problema fue utilizar una distribución gaussiana para un caso donde no hay muchas variables, en este caso, los halos galáctcos, asignándole una mayor probabilidad de que existan halos.
