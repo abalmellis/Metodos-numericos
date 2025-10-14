@@ -1,3 +1,4 @@
+#%%
 import h5py
 import numpy as np
 import matplotlib.pyplot as plt
@@ -15,3 +16,8 @@ plt.legend()
 plt.grid(True)
 plt.show()
 
+
+#%%
+
+# Nota: 6.0
+# Se pedía escribir una *función* que hiciera esto.
