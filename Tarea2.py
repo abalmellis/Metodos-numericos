@@ -40,3 +40,6 @@ plt.grid()
 plt.show()
 
 #
+
+# Nota: 6.0
+# Faltó interpretar y comentar como se pedía
