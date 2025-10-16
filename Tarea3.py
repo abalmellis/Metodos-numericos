@@ -27,3 +27,5 @@ def dos_de_cada_color(evento):
 dos_color = {e for e in espacio if dos_de_cada_color(e)}
 
 print("Probabilidad de sacar 2 bolas de cada color =", str(prob(dos_color, espacio)) + "%")
+
+# Nota: 7.0
